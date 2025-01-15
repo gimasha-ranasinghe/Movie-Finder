@@ -1,7 +1,6 @@
 body {
   margin: 0;
   font-family: "Times New Roman", Times, serif;
-  /* background: linear-gradient(135deg, #007acc, #80d4ff); */
   background: linear-gradient(
     to bottom,
 
@@ -78,6 +77,13 @@ header h4 {
   border-radius: 10px;
   padding: 30px;
   gap: 0px;
+  background: linear-gradient(
+    to bottom,
+
+    #1672f3,
+    #1c04d4,
+    #250480,
+    #01032b
 }
 
 .movie-poster img {
